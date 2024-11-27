@@ -92,6 +92,12 @@ src/
 - Modern React patterns and hooks
 - Clean and maintainable code structure
 
+## Screen Shots
+
+![image](https://github.com/user-attachments/assets/64b879f3-56aa-4171-aa7c-b8d50dfbfc02)
+![image](https://github.com/user-attachments/assets/13974fbb-6f2d-4cff-a554-98a4062712a9)
+![image](https://github.com/user-attachments/assets/a75febf1-d62f-4edd-a442-9aa16e748e00)
+
 ## Contributing
 
 1. Fork the repository
